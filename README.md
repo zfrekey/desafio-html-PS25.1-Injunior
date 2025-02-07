@@ -1,4 +1,4 @@
-# Desafio HTML proposto durante o período de treinamento da IN Junior UFF
+# Desafio HTML proposto pela IN Junior - UFF
 
 Nesse repostiório eu (Filype) e Ana Laura criamos em conjunto um website totalmente em HTML para apresentar no grupo ficticio: <br>
 *The Debbugers - Here we find the solutions for your code*.
